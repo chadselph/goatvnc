@@ -1,0 +1,12 @@
+GoatVNC version 0.?
+
+GoatVNC is a quick script I wrote up when learning the VNC protocol and socket programming; so it certainly isn't the best example of either.  The idea was to use it at Defcon and put it on the network, running as an open VNC server, hoping that people would connect and get goatse'ed.
+
+Future work:
+* Separate out BaseVNC stuff, work in support for authentication, image encoding types, etc.
+* Animation?
+* Refactor socket stuff, using something better than struct
+
+Depends on:
+Python 2.6 (possibly much older)
+PIL
