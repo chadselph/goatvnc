@@ -10,3 +10,4 @@ Future work:
 Depends on:
 Python 2.6 (possibly much older)
 PIL
+Twisted
